@@ -2,10 +2,13 @@ Sistem Pendataan Mahasiswa
 
 Nama:
 PUTRI NOER HAFIZAH
+
 NIM:
 240631100008
+
 Judul:
 Sistem Pendataan Mahasiswa
+
 Deskripsi Singkat:
     Aplikasi ini dibuat untuk mengelola data mahasiswa. Pengguna dapat menambahkan, melihat, mengubah, dan menghapus data mahasiswa   melalui aplikasi berbasis web menggunakan PHP Native dan MySQL.
 
